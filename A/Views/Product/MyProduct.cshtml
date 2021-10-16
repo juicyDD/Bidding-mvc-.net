@@ -1,0 +1,90 @@
+﻿@model Tuple<List<A.Models.Product>, List<A.Models.ProductImage>,string>
+@{
+    ViewBag.Title = "MyProduct";
+}
+
+<body>
+    <h2>My products</h2><hr />
+    <div class="block">
+        <div class="col-md-6">
+            <form method="post">
+                <input type="text" value="@Model.Item3" class="form-control" style="display:inline-block" placeholder="Search" id="name" name="name">
+                <button class="btn btn-default" style="display:inline-block" type="submit">
+                    <i class="glyphicon glyphicon-search"></i>
+                </button>
+            </form>
+        </div>
+
+
+    </div>
+
+    <br /><br />
+    <h3>Available products</h3><hr />
+    <table class="table table-striped">
+        <tr>
+            <th>Index</th>
+            <th>Product name</th>
+            <th></th>
+            <th>Start price</th>
+            <th>Current price</th>
+            <th></th>
+        </tr>
+        @for (int i = 0; i < Model.Item1.Count; i++)
+        {
+            int j = 0;
+            if (Model.Item1[i].EndTime > DateTime.Now)
+            {
+                <tr>
+                    @{ j = j + 1;}
+                    <td>@j</td>
+                    <td><a href="@Url.Action("GetDetails", "Product", new { id = Model.Item1[i].ProductID }, null)" target="_blank">@Model.Item1[i].ProductName </a></td>
+                    <td><img src="~/Images/@Model.Item2[i].ImageURL" style="overflow: hidden; position: relative; width:50px;" /></td>
+                    <td>@Model.Item1[i].StartPrice</td>
+                    <td>@Model.Item1[i].CurrentPrice</td>
+                    <td>
+                        <a onclick="return confirm('Are you sure?')" href="@Url.Action("DeleteProduct","Product", new {id = Model.Item1[i].ProductID},null)" class="btn btn-default btn-md" id="delete">
+
+                            <span class="glyphicon glyphicon-remove"></span>
+                    </td>
+
+                </tr>
+            };
+        }
+    </table>
+    <h3>Expired</h3><hr />
+    <table class="table table-striped">
+        <tr>
+            <th>Index</th>
+            <th>Product name</th>
+            <th></th>
+            <th>Start price</th>
+            <th>Current price</th>
+            <th></th>
+        </tr>
+        @for (int i = 0; i < Model.Item1.Count; i++)
+        {
+            int j = 0;
+            if (Model.Item1[i].EndTime < DateTime.Now)
+            {
+                <tr>
+                    @{ j = j + 1;}
+                    <td>@j</td>
+                    <td><a href="@Url.Action("GetDetails", "Product", new { id = Model.Item1[i].ProductID }, null)" target="_blank">@Model.Item1[i].ProductName </a></td>
+                    <td><img src="~/Images/@Model.Item2[i].ImageURL" style="overflow: hidden; position: relative; width:50px;" /></td>
+                    <td>@Model.Item1[i].StartPrice</td>
+                    <td>@Model.Item1[i].CurrentPrice</td>
+                    <td>
+                        <a onclick="return confirm('Are you sure?')" href="@Url.Action("DeleteProduct","Product", new {id = Model.Item1[i].ProductID},null)" class="btn btn-default btn-md" id="delete">
+
+                            <span class="glyphicon glyphicon-remove"></span>
+                    </td>
+
+                </tr>
+            };
+        }
+    </table>
+
+
+
+
+</body>

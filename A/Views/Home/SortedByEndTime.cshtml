@@ -1,0 +1,83 @@
+﻿@model Tuple<List<A.Models.Product>, List<A.Models.ProductImage>, string, string>
+@{
+    ViewBag.Title = "Sorted By Endtime";
+}
+
+<h2>Sorted By Name</h2>
+<head>
+    <script type="text/javascript">
+        function handleSelect(elm) {
+            if (elm.value == "name") {
+                window.location.href = "@Url.Action("SortedByName", "Home", (object)new {name=Model.Item3},null)";
+            }
+            if (elm.value == "price") {
+                window.location.href = "@Url.Action("SortedByPrice", "Home", (object)new {name=Model.Item3},null)";
+            }
+            if (elm.value == "price2") {
+                window.location.href = "@Url.Action("SortedByPrice2", "Home", (object)new {name=Model.Item3},null)";
+            }
+            if (elm.value == "endtime") {
+                window.location.href = "@Url.Action("SortedByEndTime", "Home", (object)new {name=Model.Item3},null)";
+            }
+        }
+    </script>
+</head>
+<br />
+<br />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <input type="text" class="form-control" style="display:inline-block" value="@Model.Item3" placeholder="Search" id="name" name="name">
+            <button class="btn btn-default" style="display:inline-block" type="submit">
+                <i class="glyphicon glyphicon-search"></i>
+            </button>
+        </form>
+    </div>
+    <div style="float:right">
+        <label for="sorttype">Sorted by:</label>
+
+        <select name="types" id="types" placeholder="" onchange="javascript:handleSelect(this)">
+            <option value=" " style="display:none"></option>
+            <option value="name">Name</option>
+            <option value="price">Price (high to low)</option>
+            <option value="price2">Price (low to high)</option>
+            <option value="endtime" selected>End time</option>
+        </select>
+    </div>
+
+
+</div>
+
+<div class="row">
+    @for (int i = 0; i < Model.Item1.Count; i++)
+    {
+        <div class="col-md-4">
+            <div class="row">
+                <h4 style="text-align:left">
+                    <span id="productname" style="font-weight:bold">@Model.Item1[i].ProductName</span>
+                    @if (Model.Item1[i].EndTime > DateTime.Now)
+                    {
+                        <a href="@Url.Action("AddToCart", "ShoppingCart", new {id = Model.Item1[i].ProductID},null)" class="btn btn-default btn-md">
+                            <span class="glyphicon glyphicon-plus"></span> Add to Cart
+                        </a>
+                    }
+                </h4>
+
+            </div>
+
+            <p><img src="~/Images/@Model.Item2[i].ImageURL" style="overflow: hidden; position: relative; width:260px; height:260px; object-fit:cover" /></p>
+            <div class="row" style="font-size:14px;">
+                <strong>Current Price: </strong> @Model.Item1[i].CurrentPrice VND
+
+            </div>
+            <div class="row">
+                <span style="font-style: italic; font-size:11px;">@Html.ActionLink("View details >>", "GetDetails", "Product", new { id = Model.Item1[i].ProductID }, null)</span>
+            </div>
+
+
+        </div>
+    }
+
+</div>
+
+

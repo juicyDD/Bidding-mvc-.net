@@ -1,0 +1,20 @@
+﻿@model  Tuple<List<A.Models.BiddingHistory>, int>
+<table id="dataTable" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Bidding Time</th>
+            <th>Bidding Price</th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model.Item1)
+    {
+        <tr>
+            <td>@item.BiddingTime</td>
+            <td>@item.BiddingPrice</td>
+        </tr>
+
+    }
+
+
+</table>

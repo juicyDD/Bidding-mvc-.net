@@ -1,0 +1,59 @@
+﻿@model Tuple<long, int, A.Models.BiddingHistory>
+
+
+@{
+    ViewBag.Title = "Bidding";
+}
+<head>
+    <link rel="stylesheet" href="/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <script type="text/javascript">
+        function validateForm() {
+
+            var x = document.forms["myForm"]["myprice"].value;
+            if (x <= Number(document.getElementById("currentprice").innerText)) {
+                alert("The current price is " + document.getElementById("currentprice").innerText + " VND, bid a higher one!");
+            return false;
+        }
+    }
+    </script>
+    <script>
+        var x = setInterval(function () {
+            var url = '@Url.Action("GetBidHistory", "BiddingHistory",new {id = Model.Item2},null)';
+            var myprice = '@Url.Action("GetCurrentPrice", "Product",new {id = Model.Item2},null)';
+            $("#currentprice").load(myprice);
+            $("#uyennhidep").load(url);
+            
+
+        }, 2000);
+        
+    </script>
+</head>
+
+<body>
+    <h2>Bidding</h2>
+    <div>Current price:</div> <h1 class="row" id="currentprice"></h1>
+
+
+
+
+
+    <div class="col-md-6">
+        <form name="myForm" onsubmit="return validateForm()" method="post">
+            Bidding Price:
+            <input type="number" name="myprice" id="myprice" onsubmit="validateForm" />
+            <input type="number" name="productid" id="productid" value="@Model.Item2" style="display:none" />
+            <br />
+            <input type="submit" value="Submit" />
+        </form>
+    </div>
+    <br />
+    <br />
+
+    <!--<div id="mybiddinghistory">@{Html.RenderAction("GetBidHistory", "BiddingHistory", new { id = Model.Item2 });}</div>-->
+    <div id="uyennhidep"></div>
+
+
+
+</body>

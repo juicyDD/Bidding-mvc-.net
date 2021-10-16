@@ -1,0 +1,88 @@
+﻿@model A.Models.ProductOnView
+
+@{
+    ViewBag.Title = "Upload";
+}
+
+<h2>Upload</h2>
+
+<script type="text/javascript">
+
+    function validateForm(myForm) {
+        //end time validate
+        if (myForm.EndTime.value == '') {
+            alert("End time is required!");
+        }
+        else {
+            var now = new Date().getTime();
+            var myenddate = (new Date(myForm.EndTime.value).getTime());
+            var distance = myenddate - now;
+            if (distance < 0) {
+                alert("Invalid end time!");
+            }
+
+        }
+
+    }
+</script>
+@using (Html.BeginForm("Upload", "ProductOnView", FormMethod.Post, new
+{
+    enctype = "multipart/form-data"
+}))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Add new product</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.ProductName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StartPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.StartPrice, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.StartPrice, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EndTime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="datetime-local" id="EndTime" name="EndTime" required>
+                @Html.ValidationMessageFor(model => model.EndTime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.img, htmlAttributes: new { @class = "control-label col-md-2" })
+            <br />
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.img, "", new { @type = "file", @multiple = "multiple", @required = "required" })
+                @Html.ValidationMessageFor(model => model.img, "", new { @class = "text-danger" })
+                <!--<input type="file" id="proimg" name="proimg" required multiple accept="image/*"/>-->
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+

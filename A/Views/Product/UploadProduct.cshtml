@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "UploadProduct";
+}
+<head>
+    <script type="text/javascript">
+
+        function validateForm(myForm) {
+            //end time validate
+            if (myForm.endtime.value == null) {
+                alert("End time is required!");
+            }
+            else {
+                var now = new Date().getTime();
+                var myenddate = (new Date(myForm.endtime.value).getTime());
+                var distance = myenddate - now;
+                if (distance < 0) {
+                    alert("Invalid end time!");
+                }
+                
+            }
+            
+        }
+    </script>
+</head>
+<body>
+
+    <h1>Show a Date and Time Control</h1>
+
+    <form name="myForm" onsubmit="return validateForm(myForm)" method="post">
+        <div class="row">
+            <div class="col-md-3">
+                <label for="productname">Product name:</label>
+                <br /><br />
+                <label for="startprice">Start price:</label>
+                <br /><br />
+                <label for="endtime">End time:</label>
+                <br /><br />
+                <label for="productimg">Images:</label>
+                <br /><br />
+            </div>
+            <div class="col-md-5">
+                <input type="text" id="productname" name="productname">
+                <br /><br />
+                <input type="number" id="startprice" name="startprice">
+                <br /><br />
+                <input type="datetime-local" id="endtime" name="endtime">
+                <br /><br/>
+                <input type="file" id="productimg" name="productimg" required multiple accept="image/*"/>
+            </div>
+        </div>
+        <input type="submit" value="Submit">
+    </form>
+
+</body>

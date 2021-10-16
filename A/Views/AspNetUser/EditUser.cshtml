@@ -1,0 +1,42 @@
+﻿@model Tuple<string,string,string>
+@{
+    ViewBag.Title = "Edit User";
+}
+<head>
+
+    <script type="text/javascript">
+        function Nhiis_vali_dating() {
+            var formattest = /((09|03|07|08|05)+([0-9]{8})\b)/g
+            //var formattest = /^\+?([0-9]{2})\)?[-. ]?([0-9]{4})[-. ]?([0-9]{4})$/
+            var x = document.getElementById("phoneNum").value;
+            if (formattest.test(x) == false)
+                //if (x!=null && x.match(formattest)==false)
+                alert("Invalid phone number!");
+        }
+    </script>
+</head>
+<h2>Edit user @Model.Item1</h2>
+<body>
+    <div class="col-md-6">
+        <form name="myForm" onsubmit="return Nhiis_vali_dating()" method="post">
+            <p style="font-weight:bold">Location:</p>
+            <input type="text" name="userName" id="userName" value="@Model.Item1" style="display:none" />
+            <br/> 
+            <input type="text" name="location" id="location" value="@Model.Item2" />
+            <br />
+            <p style="font-weight:bold">Phone number:</p>
+            <input type="text" name="phoneNum" id="phoneNum" onsubmit="validateForm" value="@Model.Item3" />
+
+            <br /><br />
+
+
+            <input type="submit" value="Submit" name="btnSub" />
+        </form>
+    </div>
+    <br />
+    <br />
+
+    
+
+</body>
+

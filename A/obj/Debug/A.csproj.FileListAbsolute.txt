@@ -1,0 +1,509 @@
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\A.dll.config
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\A.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\A.pdb
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Owin.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\WebGrease.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.csproj.CopyComplete
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.dll
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.pdb
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.Migrations.InitialCreate.resources
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.Migrations.Location.resources
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.Migrations.Products.resources
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.Migrations.ProductImage.resources
+C:\Users\DELL\Desktop\DOAN\Bidding\A\obj\Debug\A.Migrations.History.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\A.dll.config
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\A.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\A.pdb
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Owin.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\WebGrease.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.Migrations.InitialCreate.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.Migrations.Location.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.Migrations.Products.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.Migrations.ProductImage.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.Migrations.History.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.csproj.CopyComplete
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.pdb
+C:\Users\DELL\Desktop\DOAN\27042021\A\obj\Debug\A.Migrations.cart.resources
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\WebActivator.dll
+C:\Users\DELL\Desktop\DOAN\27042021\A\bin\WebActivatorEx.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\A.dll.config
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\A.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\A.pdb
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Owin.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\WebActivator.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\WebActivatorEx.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\WebBackgrounder.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\WebGrease.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.Migrations.InitialCreate.resources
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.Migrations.Location.resources
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.Migrations.Products.resources
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.Migrations.ProductImage.resources
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.Migrations.History.resources
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.Migrations.cart.resources
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.csproj.CopyComplete
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\obj\Debug\A.pdb
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Common.Logging.Core.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Common.Logging.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Quartz.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Buffers.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Memory.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Common.Logging.pdb
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Common.Logging.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Common.Logging.Core.pdb
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Common.Logging.Core.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Quartz.pdb
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\Quartz.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Buffers.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Memory.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\DOAN\27042021 - Copy\A\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\A.dll.config
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\A.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\A.pdb
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Common.Logging.Core.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Common.Logging.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Owin.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Quartz.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Buffers.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Memory.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\WebActivator.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\WebActivatorEx.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\WebBackgrounder.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\WebGrease.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Common.Logging.pdb
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Common.Logging.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Common.Logging.Core.pdb
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Common.Logging.Core.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Quartz.pdb
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Quartz.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Buffers.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Memory.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.Migrations.InitialCreate.resources
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.Migrations.Location.resources
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.Migrations.Products.resources
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.Migrations.ProductImage.resources
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.Migrations.History.resources
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.Migrations.cart.resources
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.csproj.CopyComplete
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.dll
+C:\Users\DELL\Desktop\PBL3\27042021 - Copy\A\obj\Debug\A.pdb

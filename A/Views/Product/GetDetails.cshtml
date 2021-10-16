@@ -1,0 +1,95 @@
+﻿@model Tuple<A.Models.Product, List<string>>
+@{
+    ViewBag.Title = Model.Item1.ProductName;
+}
+<head>
+    <script type="text/javascript">
+        function swap(string) {
+            document.getElementById("target").src = string;
+        }
+    </script>
+    <script>
+        var x = setInterval(function () {
+            var url = '@Url.Action("GetBidHistory", "BiddingHistory",new {id = Model.Item1.ProductID},null)';
+            $("#uyennhi").load(url);
+
+        }, 2000);
+    </script>
+    <script mydate="@Model.Item1.EndTime.ToString()">
+
+
+        var countDownDate = new Date(document.currentScript.getAttribute('mydate')).getTime();
+
+        // Update the count down every 1 second
+        var x = setInterval(function () {
+
+            // Get today's date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now and the count down date
+            var distance = countDownDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Output the result in an element with id="demo"
+            document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+                + minutes + "m " + seconds + "s ";
+
+            // If the count down is over, write some text
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("countdown").innerHTML = "EXPIRED";
+                document.getElementById("cart").style.display = "none";
+                document.getElementById("bid").style.display = "none";
+            }
+        }, 1000);
+    </script>
+
+</head>
+
+<h2>@Model.Item1.ProductName</h2>
+<div class="row">
+    <div class=" col-md-6">
+        <div class="row"><img id="target" src="~/Images/@Model.Item2[0]" width=500></div>
+        <br />
+        <div class="row">
+            @foreach (string i in Model.Item2)
+            {
+                <a href="~/Images/@i" onclick="swap(this); return false;"><img src="~/Images/@i" width=50></a>
+            }
+        </div>
+    </div>
+    <div class=" col-md-6">
+        <p> <h3>Description: </h3> @Model.Item1.Description</p>
+        <p><h3>Start Price: </h3> @Model.Item1.StartPrice VND</p>
+        @{
+            DateTime test = DateTime.Now;
+            if (Model.Item1.EndTime > test)
+            {
+                <p style="font-style: italic">This auction will be closed in</p>
+            }
+
+        }
+        <h2 id="countdown"></h2>
+        <br />
+        <div class="row">
+            <a href="@Url.Action("AddToCart", "ShoppingCart", new {id = Model.Item1.ProductID},null)" class="btn btn-default btn-md" id="cart">
+                <span class="glyphicon glyphicon-plus"></span> Add to Cart
+            </a>
+            <a href="@Url.Action("Bidding","BiddingHistory", new {id = Model.Item1.ProductID},null)" class="btn btn-danger btn-md" id="bid" target="_blank">
+
+                <span class="glyphicon glyphicon-plus"></span> Bid
+            </a>
+        </div>
+
+
+
+    </div>
+</div>
+<br /><br /><br />
+<div id="uyennhi"></div>
+
